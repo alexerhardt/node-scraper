@@ -1,0 +1,24 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "A simple node.js scraper",
+  "main": "node-scraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexerhardt/node-scraper.git"
+  },
+  "author": "Alex Erhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexerhardt/node-scraper/issues"
+  },
+  "homepage": "https://github.com/alexerhardt/node-scraper#readme"
+}
